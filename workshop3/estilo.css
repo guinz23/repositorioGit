@@ -1,0 +1,43 @@
+*{
+	border-radius: 10px;
+
+}
+body{
+	background-color:grey;
+}
+header{
+	background-image: url(C:\Users\juangabriel\Music\repositorioGit\workshop3\imagenes);
+}
+img{
+	width: 300px;
+	height: 300px;
+	margin-top: 80px;
+	float:right;
+	margin-left: 150px;
+	margin-right: 150px;
+	border-radius: 50px;
+}
+header h2{
+   text-align: center;
+
+}
+ nav h3{
+ 	font-weight:bold;
+ 	float:right;
+    
+ 	 margin-top: 10px;
+
+
+  }
+  aside h3{
+  text-align:  center; 	
+
+  }
+ article h4{
+ 	text-align:  justify-all;
+ }
+ ul{
+ 	text-align: left;
+ 	background-color: #1ABFC1;
+ }
+
